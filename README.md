@@ -1,0 +1,2 @@
+# gfncalc
+Correlation function calculator
